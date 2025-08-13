@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "646892833201",
+    "project_id": "do-it-e5662",
+    "storage_bucket": "do-it-e5662.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646892833201:android:647d05020deb040ee49590",
+        "android_client_info": {
+          "package_name": "com.example.do_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646892833201-138skfji3ubisa09t1ahvejndai30ukv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-YcKHevGigp7ub-XsboJlwl4Ci0T-Kt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646892833201-138skfji3ubisa09t1ahvejndai30ukv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646892833201-9h53d7vpiu9dq1g2nc7hut0ctkob39sa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646892833201:android:d243b161cc6eb3afe49590",
+        "android_client_info": {
+          "package_name": "com.usama.doit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646892833201-138skfji3ubisa09t1ahvejndai30ukv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-YcKHevGigp7ub-XsboJlwl4Ci0T-Kt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646892833201-138skfji3ubisa09t1ahvejndai30ukv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646892833201-9h53d7vpiu9dq1g2nc7hut0ctkob39sa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doIt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
